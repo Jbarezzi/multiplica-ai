@@ -15,5 +15,7 @@ public class MultiplicaAi {
       System.out.println(result);
       initialValue++;
     }
+
+    input.close();
   }
 }
